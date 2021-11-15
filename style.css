@@ -1,0 +1,18 @@
+img{
+    width: 300px;
+    height: 300px;
+}
+body{
+    background-color: aqua;
+    font-family: 'Ceviche One', cursive;
+}
+.CreatedBy {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: purple;
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    text-shadow:5px 5px rgba(92, 92, 92, 0.836);
+ }
